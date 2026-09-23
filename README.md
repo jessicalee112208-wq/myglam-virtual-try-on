@@ -37,11 +37,23 @@ MyGlam can be useful for:
 
 Try the tool here:
 
-## About MyGlam
 
-MyGlam provides AI-powered beauty and fashion tools designed to make it easier to experiment with different looks online.
 
-Website: https://myglam.ai/
+### Example 1
+
+![MyGlam Virtual Try-On Clothes Example 1](examples/virtual-try-on-clothes01.png)
+
+### Example 2
+
+![MyGlam AI Clothes Try-On Example 2](examples/virtual-try-on-clothes02.png)
+
+### Example 3
+
+![Virtual Clothes Try-On Example 3](examples/virtual-try-on-clothes03.png)
+
+Try the tool online:
+
+[MyGlam Virtual Try-On Clothes](https://myglam.ai/virtual-try-on-clothes)
 ## How to Use
 
 Want to see how the virtual try-on works?
@@ -49,3 +61,12 @@ Want to see how the virtual try-on works?
 Read the complete step-by-step guide:
 
 [How to Use MyGlam Virtual Try-On Clothes](docs/how-to-use.md)
+## About MyGlam
+
+MyGlam provides AI-powered beauty and fashion tools designed to make it easier to experiment with different looks online.
+
+Website: https://myglam.ai/
+
+## Virtual Try-On Examples
+
+See how MyGlam AI Virtual Try-On can transform different outfit ideas.

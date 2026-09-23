@@ -36,6 +36,11 @@ MyGlam can be useful for:
 ## Online Demo
 
 Try the tool here:
+## How to Use
+
+For a complete step-by-step guide, see:
+
+[How to Use MyGlam Virtual Try-On Clothes](docs/how-to-use.md)
 
 [MyGlam AI Virtual Clothes Try-On](https://myglam.ai/virtual-try-on-clothes)
 
